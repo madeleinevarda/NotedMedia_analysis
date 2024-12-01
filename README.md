@@ -16,11 +16,11 @@ The Web3 music NFT market represents a surprisingly small fraction of overall NF
 
 ## Leading Assets 
 
-* Analysis of the top 10 assets reveals the significant influence of established Web2 artists in the Web3 music space. Shawn Mendes alone accounts for 50% of top-performing assets, while other mainstream artists like Kings of Leon, through their "NFT Yourself" release, representing 8% of total sales, demonstrate the market's strong preference for recognized names. 
-* This trend is further reinforced by the fact that these assets are from artists with established presences on traditional streaming platforms and have received major media coverage for their NFT releases.
-* The dominance of electronic and pop genres within these top 10 assets, combined with the success of mainstream artists, suggests that existing Web2 market recognition may be a crucial factor in driving Web3 music NFT performance.
+* Established Web2 artists dominate the Web3 music space, with Shawn Mendes accounting for 50% of top-performing assets.
+* Kings of Leon's 8% market share and 34,334,700 sales (compared to the second-place asset's 122,889) stem from their established Web2 presence and media coverage of their "NFT Yourself" release, which positioned the NFT as the exclusive way to listen to the album.
+* The top ten assets, predominantly pop and electronic genres, comprise 46% of all transactions, demonstrating the market's concentration around a small number of high-volume assets.
 
-# Reccomendations 
+# Recommendations 
 
 * Have your Web3 artists establish a presence on traditional streaming platforms to increase their audience reach and potentially collaborate with Web2 artists.
 * Target and incentivize cross-category collectors through strategic NFT pairings, such as bundling music NFTs with art NFTs or offering customizable art options, as these collectors demonstrate higher average spending and represent a significant portion of high-value transactions. 
