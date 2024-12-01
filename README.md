@@ -2,6 +2,10 @@
 
 Noted Media is developing Noted University, an educational platform for artists that will launch within two years, with a specific focus on Web3 music transaction data. By collaborating with the head of technology, I will examine metrics including total revenue, average order value (AOV), leading assets, and buyer behavior across musical genres. The findings will be shared on the company's Discord and with the CEO to inform Noted University's strategic direction.  
 
+View the complete accompanying insights report [here](https://github.com/madeleinevarda/NotedMedia_analysis/blob/main/Insights%20Report.pdf).
+
+View the Tableau Dashboard [here](https://public.tableau.com/views/Internship_17314629304640/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 # Deep-Dive Insights 
 
 ## Overview 
