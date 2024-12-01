@@ -29,6 +29,10 @@ The Web3 music NFT market represents a surprisingly small fraction of overall NF
 
 # Dashboard 
 
+<p align='center'>
+<img width="1200" alt="Dashboard" src="https://github.com/user-attachments/assets/8a818237-b4d5-4ee1-a73c-2f4520eca3b4">
+</p>
+
 # Limitations and Future Changes 
 
 The current dataset presented dimensional constraints, primarily offering transactional metrics without deeper contextual information. To enhance analytical depth, I augmented the data by manually categorizing musical genres and conducting detailed research into the top 10 assets' presence across streaming platforms, media coverage, and accessibility.
